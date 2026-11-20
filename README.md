@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**ammarusman-dev/ammarusman-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=220&section=header&text=Hi%20there!%20I'm%20Ammar%20Usman&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20@%20UMT%20%7C%20Full-Stack%20Development%20%26%20AI%2FML&descSize=18&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06090F,50:15253A,100:2D4768&height=220&section=header&text=Hi%20there!%20I%27m%20Ammar%20Usman&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=CS%20Student%20at%20UMT%20%7C%20Full-Stack%20Development%20and%20AI/ML&descSize=18&descAlignY=62" width="100%" />
 </p>
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ammarusman-dev&label=Profile%20Views&color=0284c7&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ammarusman-dev&label=Profile%20Views&color=1E3A5F&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -92,7 +89,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ammarusman-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ammarusman-dev&background=06090F&border=1E293B&stroke=1E293B&ring=2D4768&fire=60A5FA&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" />
 </p>
 
 ---
@@ -117,5 +114,5 @@
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D4768,50:15253A,100:06090F&height=120&section=footer" width="100%" />
 </p>
