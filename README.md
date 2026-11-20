@@ -1,8 +1,6 @@
-## Hi there 👋
-
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06090F,50:15253A,100:2D4768&height=220&section=header&text=Hi%20there!%20I%27m%20Ammar%20Usman&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=CS%20Student%20at%20UMT%20%7C%20Full-Stack%20Development%20and%20AI/ML&descSize=18&descAlignY=62" width="100%" />
+  <img src="./header(1).jpg" alt="Ammar Usman Header" width="100%" />
 </p>
 
 <!-- Profile Views -->
@@ -114,5 +112,5 @@
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D4768,50:15253A,100:06090F&height=120&section=footer" width="100%" />
+  <img src="./footer.jpg" alt="Footer Banner" width="100%" />
 </p>
